@@ -1,2 +1,2 @@
-# landing
-Welcome. Content coming soon. Thank you for your patience.
+# welcome
+Content coming soon. Thank you for your patience.
