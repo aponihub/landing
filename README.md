@@ -1,2 +1,2 @@
 # landing
-This is for the landing page
+Welcome. Content coming soon. Thank you for your patience.
